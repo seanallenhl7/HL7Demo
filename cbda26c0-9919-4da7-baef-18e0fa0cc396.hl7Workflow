@@ -1,15 +1,15 @@
 {
   "Comments": "",
-  "Modified": "2024-11-19T21:36:09.5171956Z",
-  "ImportedDate": "2024-11-19T21:36:09.5428092Z",
-  "Name": "Test",
+  "Modified": "2024-11-19T21:39:31.5015888Z",
+  "ImportedDate": "2024-11-19T21:39:31.5072799Z",
+  "Name": "Test Two",
   "WorkflowId": "cbda26c0-9919-4da7-baef-18e0fa0cc396",
   "WorkflowPattern": [
     {
       "$type": "HL7Soup.Functions.Settings.Receivers.HttpReceiverSetting, HL7SoupWorkflow",
       "QueryStringParameters": {},
       "UrlSections": [],
-      "Name": "Test",
+      "Name": "Test Two",
       "CertificatePath": "",
       "CertificatePassword": "",
       "CertificateStoreLocation": 2,
@@ -25,8 +25,8 @@
       "Activities": [],
       "MessageType": 1,
       "ReceivedMessageTemplate": "",
-      "WorkflowPatternName": "Test",
-      "LastModified": "2024-11-20T10:36:09.5107453+13:00",
+      "WorkflowPatternName": "Test Two",
+      "LastModified": "2024-11-20T10:39:31.4951626+13:00",
       "Id": "cbda26c0-9919-4da7-baef-18e0fa0cc396",
       "Version": 2
     }
