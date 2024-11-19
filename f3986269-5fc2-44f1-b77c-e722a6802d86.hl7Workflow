@@ -1,0 +1,34 @@
+{
+  "Comments": "",
+  "Modified": "2024-11-19T21:37:59.7773564Z",
+  "ImportedDate": "2024-11-19T21:37:59.792225Z",
+  "Name": "Receive HL7 with HL72 HTTP:8080",
+  "WorkflowId": "f3986269-5fc2-44f1-b77c-e722a6802d86",
+  "WorkflowPattern": [
+    {
+      "$type": "HL7Soup.Functions.Settings.Receivers.HttpReceiverSetting, HL7SoupWorkflow",
+      "QueryStringParameters": {},
+      "UrlSections": [],
+      "Name": "Receive HL7 with HL72 HTTP:8080",
+      "CertificatePath": "",
+      "CertificatePassword": "",
+      "CertificateStoreLocation": 2,
+      "CertificateStoreName": 5,
+      "CertificateThumbPrint": "",
+      "ClientCertificateThumbPrint": "",
+      "Port": 8080,
+      "ServiceName": "HL72",
+      "AuthenticationUserName": "",
+      "AuthenticationPassword": "",
+      "ResponseMessageTemplate": "MSH|^~\\&|HL7Soup|Instance2|HL7Soup|Instance1|${ReceivedDate}||ACK^T01^MDM_T01|0|P|2.5.1\rMSA|AA|0",
+      "ReponsePriority": 2,
+      "Activities": [],
+      "MessageType": 1,
+      "ReceivedMessageTemplate": "",
+      "WorkflowPatternName": "Receive HL7 with HL72 HTTP:8080",
+      "LastModified": "2024-11-20T10:37:59.7217217+13:00",
+      "Id": "f3986269-5fc2-44f1-b77c-e722a6802d86",
+      "Version": 2
+    }
+  ]
+}
