@@ -2,12 +2,12 @@
   "Comments": "",
   "Modified": "2024-11-20T20:23:22.750122Z",
   "ImportedDate": "2024-11-20T20:23:22.7683374Z",
-  "Name": "Receive on TCP port 22222",
+  "Name": "Test",
   "WorkflowId": "6691c92e-0490-4a12-b00d-fbd3d225f7dd",
   "WorkflowPattern": [
     {
       "$type": "HL7Soup.Functions.Settings.Receivers.MLLPReceiverSetting, HL7SoupWorkflow",
-      "Name": "Receive on TCP port 22222",
+      "Name": "Test",
       "Server": "0.0.0.0",
       "Port": 22222,
       "FrameStart": [
@@ -27,7 +27,7 @@
       "Activities": [],
       "MessageType": 1,
       "ReceivedMessageTemplate": "",
-      "WorkflowPatternName": "Receive on TCP port 22222",
+      "WorkflowPatternName": "Test",
       "LastModified": "2024-11-21T09:23:22.6950946+13:00",
       "Id": "6691c92e-0490-4a12-b00d-fbd3d225f7dd",
       "Version": 2
