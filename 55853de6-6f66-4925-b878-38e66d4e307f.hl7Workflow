@@ -2,14 +2,14 @@
   "Comments": "",
   "Modified": "2024-11-19T21:36:55.2373818Z",
   "ImportedDate": "2024-11-19T21:36:55.247515Z",
-  "Name": "Receive HL7 with HL71 HTTP:8080",
+  "Name": "Test",
   "WorkflowId": "55853de6-6f66-4925-b878-38e66d4e307f",
   "WorkflowPattern": [
     {
       "$type": "HL7Soup.Functions.Settings.Receivers.HttpReceiverSetting, HL7SoupWorkflow",
       "QueryStringParameters": {},
       "UrlSections": [],
-      "Name": "Receive HL7 with HL71 HTTP:8080",
+      "Name": "Test",
       "CertificatePath": "",
       "CertificatePassword": "",
       "CertificateStoreLocation": 2,
@@ -25,7 +25,7 @@
       "Activities": [],
       "MessageType": 1,
       "ReceivedMessageTemplate": "",
-      "WorkflowPatternName": "Receive HL7 with HL71 HTTP:8080",
+      "WorkflowPatternName": "Test",
       "LastModified": "2024-11-20T10:36:55.2273796+13:00",
       "Id": "55853de6-6f66-4925-b878-38e66d4e307f",
       "Version": 2
