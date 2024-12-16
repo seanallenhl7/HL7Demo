@@ -1,15 +1,15 @@
 {
   "Comments": "",
-  "Modified": "2024-11-27T22:11:51.5440377Z",
-  "ImportedDate": "2024-11-27T22:11:51.5497481Z",
-  "Name": "Test",
-  "WorkflowId": "4be16e5f-c6d6-4224-a9fa-2cc2fc44b247",
+  "Modified": "2024-12-16T22:15:17.713999Z",
+  "ImportedDate": "2024-12-16T22:15:17.7348575Z",
+  "Name": "Working with GitHub Actions",
+  "WorkflowId": "975f6bdc-fe15-4758-a982-d8b55fbdbcc5",
   "WorkflowPattern": [
     {
       "$type": "HL7Soup.Functions.Settings.Receivers.HttpReceiverSetting, HL7SoupWorkflow",
       "QueryStringParameters": {},
       "UrlSections": [],
-      "Name": "Test",
+      "Name": "Working with GitHub Actions",
       "CertificatePath": "",
       "CertificatePassword": "",
       "CertificateStoreLocation": 2,
@@ -25,9 +25,9 @@
       "Activities": [],
       "MessageType": 1,
       "ReceivedMessageTemplate": "",
-      "WorkflowPatternName": "Test",
-      "LastModified": "2024-11-28T11:11:51.5375059+13:00",
-      "Id": "4be16e5f-c6d6-4224-a9fa-2cc2fc44b247",
+      "WorkflowPatternName": "Working with GitHub Actions",
+      "LastModified": "2024-12-17T11:15:17.668328+13:00",
+      "Id": "975f6bdc-fe15-4758-a982-d8b55fbdbcc5",
       "Version": 2
     }
   ]
