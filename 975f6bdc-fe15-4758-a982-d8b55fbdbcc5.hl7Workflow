@@ -1,7 +1,7 @@
 {
   "Comments": "",
-  "Modified": "2024-12-16T22:15:17.713999Z",
-  "ImportedDate": "2024-12-16T22:15:17.7348575Z",
+  "Modified": "2024-12-16T22:16:58.8355603Z",
+  "ImportedDate": "2024-12-16T22:16:58.8404407Z",
   "Name": "Working with GitHub Actions",
   "WorkflowId": "975f6bdc-fe15-4758-a982-d8b55fbdbcc5",
   "WorkflowPattern": [
@@ -16,7 +16,7 @@
       "CertificateStoreName": 5,
       "CertificateThumbPrint": "",
       "ClientCertificateThumbPrint": "",
-      "Port": 8080,
+      "Port": 8084,
       "ServiceName": "HL7Soup",
       "AuthenticationUserName": "",
       "AuthenticationPassword": "",
@@ -26,7 +26,7 @@
       "MessageType": 1,
       "ReceivedMessageTemplate": "",
       "WorkflowPatternName": "Working with GitHub Actions",
-      "LastModified": "2024-12-17T11:15:17.668328+13:00",
+      "LastModified": "2024-12-17T11:16:58.8288379+13:00",
       "Id": "975f6bdc-fe15-4758-a982-d8b55fbdbcc5",
       "Version": 2
     }
