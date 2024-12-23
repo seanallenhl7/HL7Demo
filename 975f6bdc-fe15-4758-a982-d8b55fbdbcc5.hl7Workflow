@@ -1,15 +1,15 @@
 {
   "Comments": "",
-  "Modified": "2024-12-16T22:16:58.8355603Z",
-  "ImportedDate": "2024-12-16T22:16:58.8404407Z",
-  "Name": "Working with GitHub Actions",
+  "Modified": "2024-12-23T19:03:01.4298614Z",
+  "ImportedDate": "2024-12-23T19:03:01.4405296Z",
+  "Name": "Working with Alla",
   "WorkflowId": "975f6bdc-fe15-4758-a982-d8b55fbdbcc5",
   "WorkflowPattern": [
     {
       "$type": "HL7Soup.Functions.Settings.Receivers.HttpReceiverSetting, HL7SoupWorkflow",
       "QueryStringParameters": {},
       "UrlSections": [],
-      "Name": "Working with GitHub Actions",
+      "Name": "Working with Alla",
       "CertificatePath": "",
       "CertificatePassword": "",
       "CertificateStoreLocation": 2,
@@ -25,8 +25,8 @@
       "Activities": [],
       "MessageType": 1,
       "ReceivedMessageTemplate": "",
-      "WorkflowPatternName": "Working with GitHub Actions",
-      "LastModified": "2024-12-17T11:16:58.8288379+13:00",
+      "WorkflowPatternName": "Working with Alla",
+      "LastModified": "2024-12-24T08:03:01.4252775+13:00",
       "Id": "975f6bdc-fe15-4758-a982-d8b55fbdbcc5",
       "Version": 2
     }
